@@ -21,7 +21,7 @@ A TypeScript/Express.js application that demonstrates Prometheus metrics collect
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone  https://github.com/kumarchetan-1/Week-31.1-Monitoring-prometheus-and-grafana.git 
 cd Week-31.1-monitoring-prometheus-graphana
 ```
 
