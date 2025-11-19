@@ -1,1 +1,1 @@
-[./image.png]
+![Monitoring Setup](./image.png)
