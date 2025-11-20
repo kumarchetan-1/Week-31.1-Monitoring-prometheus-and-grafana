@@ -2,6 +2,8 @@
 
 A TypeScript/Express.js application that demonstrates Prometheus metrics collection and monitoring. This project implements custom metrics using `prom-client` and exposes them via a `/metrics` endpoint for Prometheus scraping.
 
+## [Lecture notes](https://projects.100xdevs.com/tracks/prom-graf-1/Prometheus-and-Grafana-8)
+
 ## Todo Assignment
 ![Monitoring Setup](./image.png)
 
